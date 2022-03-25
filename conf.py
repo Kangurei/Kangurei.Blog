@@ -26,7 +26,7 @@ author = "Kangurei"
 email = "kangurei@fantasai.ink"
 author_homepage = "https://www.fantasai.ink"
 description = " "
-key_words = ['Maverick', 'Kangurei', 'Kepler', 'WIKI']
+key_words = ['Maverick', 'Kangurei', 'Galileo', 'Blog']
 language = 'zh-CN'
 external_links = [
     {
