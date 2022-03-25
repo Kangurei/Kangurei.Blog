@@ -19,7 +19,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "Kangurei's Wiki"
+site_name = "Kangurei's Blog"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2022-03-24T22:00+08:00"
 author = "Kangurei"
